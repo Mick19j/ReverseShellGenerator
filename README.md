@@ -9,7 +9,7 @@ A Python script to generate reverse shell commands for various programming langu
 
 ## Usage
 1. Clone the repository:
-git clone https://github.com/yourusername/reverse-shell-generator.git
+git clone https://github.com/Mick19j/ReverseShellGenerator.git
 
 2. Run the script:
 python ReverseShellGenerator.py
